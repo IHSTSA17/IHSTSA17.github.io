@@ -1,13 +1,13 @@
 p {
     font-family: "Comic Sans MS", "Times New Roman", Times, serif;
-    font-size: font-size:700px;
+    font-size: font-size:100px;
     
     }
 
 p.hi {
     
      font-family: "Comic Sans MS", "Times New Roman", Times, serif;
-    font-size: font-size:50px;
+    font-size: font-size:30px;
         padding: 0px 0px 300px 0px;
 
     
@@ -16,7 +16,7 @@ p.hi {
 a {
     
      font-family: "Comic Sans MS", "Times New Roman", Times, serif;
-    font-size: font-size:500px;
+    font-size: font-size:70px;
     
     
 }
